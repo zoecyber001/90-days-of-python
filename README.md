@@ -1,6 +1,6 @@
 # 90-days-of-python
 
-elcome to my **90 Days of Python Challenge**! This journey is dedicated to learning, practicing, and mastering Python programming through consistent daily progress over 90 days.
+Welcome to my **90 Days of Python Challenge**! This journey is dedicated to learning, practicing, and mastering Python programming through consistent daily progress over 90 days.
 
 ## Challenge Goals
 - Strengthen Python programming skills.
