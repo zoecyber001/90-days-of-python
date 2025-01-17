@@ -1,0 +1,65 @@
+{
+  "challenge": "90 Days of Python",
+  "progress": [
+    {
+      "day": 1,
+      "topic": "Introduction to Python",
+      "notes": "Learned the basics of Python syntax and data types."
+    },
+    {
+      "day": 2,
+      "topic": "User Input",
+      "notes": "Practiced taking user input and processing it."
+    },
+    {
+      "day": 3,
+      "topic": "Age Checker",
+      "notes": "Built a simple program to check age eligibility."
+    },
+    {
+      "day": 4,
+      "topic": "Doom Countdown",
+      "notes": "Created a countdown timer."
+    },
+    {
+      "day": 5,
+      "topic": "Factorial Calculation",
+      "notes": "Implemented a function to calculate factorial."
+    },
+    {
+      "day": 6,
+      "topic": "Lists",
+      "notes": "Explored list operations and methods."
+    },
+    {
+      "day": 7,
+      "topic": "Storing Data",
+      "notes": "Learned about dictionaries and storing user data."
+    },
+    {
+      "day": 8,
+      "topic": "File Reading",
+      "notes": "Practiced reading from files."
+    },
+    {
+      "day": 9,
+      "topic": "Error Handling",
+      "notes": "Implemented error handling in user input."
+    },
+    {
+      "day": 10,
+      "topic": "Square Root Calculation",
+      "notes": "Created a program to calculate square roots."
+    },
+    {
+      "day": 11,
+      "topic": "Email Validator",
+      "notes": "Built a function to validate email addresses."
+    },
+    {
+      "day": 12,
+      "topic": "JSON File Reader",
+      "notes": "Created a program that reads a JSON file and prints out specific values based on user input."
+    }
+  ]
+}
